@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df0347bc-05fa-41b3-a080-a8819c506333" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="358c54a0-bc44-466e-b026-ffe9d0d747e3" />
+  <component name="ProjectId" id="28N8d09V2rKVWpbV3NMRmQObFrn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/code_with_online/0507" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code_with_online/0507" />
+      <recent name="$PROJECT_DIR$/实验" />
+      <recent name="$PROJECT_DIR$/code_with_online/0505" />
+      <recent name="$PROJECT_DIR$/code_with_online/online" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df0347bc-05fa-41b3-a080-a8819c506333" name="Default Changelist" comment="" />
+      <created>1651045766423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651045766423</updated>
+      <workItem from="1651045770205" duration="7668000" />
+      <workItem from="1651064092567" duration="9282000" />
+      <workItem from="1651116458724" duration="219000" />
+      <workItem from="1651117222715" duration="306000" />
+      <workItem from="1651122255110" duration="8444000" />
+      <workItem from="1651147860982" duration="478000" />
+      <workItem from="1651152327943" duration="47655000" />
+      <workItem from="1651580897998" duration="1308000" />
+      <workItem from="1651738155871" duration="896000" />
+      <workItem from="1651827495462" duration="2374000" />
+      <workItem from="1651892462091" duration="811000" />
+      <workItem from="1651906279482" duration="1600000" />
+      <workItem from="1652166231836" duration="4958000" />
+      <workItem from="1652236528060" duration="7298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="164" key="SettingsEditor" timestamp="1651046879492">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1651046879492" />
+    <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1652258547005">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="498" y="282" width="683" height="486" key="find.popup/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1651138885987" />
+    <state x="498" y="282" width="683" height="486" key="find.popup/-1194.0.1194.834/0.0.1680.1050@0.0.1680.1050" timestamp="1651893908006" />
+    <state x="498" y="282" width="683" height="486" key="find.popup/-1194.115.1194.834/0.0.1680.1050@0.0.1680.1050" timestamp="1652258547005" />
+    <state x="498" y="282" width="683" height="486" key="find.popup/-97.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1651192429473" />
+    <state x="498" y="282" width="683" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1652172135208" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/b6f985d09a3c889b250455480541c734/Message/MessageTemp/abef5a57d20645379255944c285277aa/File/cg1_trial_0429.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
