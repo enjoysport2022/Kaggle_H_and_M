@@ -6,6 +6,8 @@ from tqdm import tqdm
 warnings.filterwarnings('ignore')
 import datetime
 
+# autox_recommend, recall, binary
+
 def BinaryNet_Recommend(sim_item, user_item_dict, user_time_dict, user_price_dict, user_id, top_k, item_num, time_max,
                         rt_dict=False):
     rank = {}
