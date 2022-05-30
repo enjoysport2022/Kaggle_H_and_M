@@ -10,6 +10,7 @@ import datetime
 import warnings
 warnings.filterwarnings('ignore')
 
+# autox_recommend, recall, usercf.
 
 def get_user_sim(df, user_col, item_col, item_iif=False, only_sim_dict=False, item_num=2000):
     item_user_ = df.groupby(item_col)[user_col].agg(set).reset_index()
