@@ -1,6 +1,6 @@
-from XX import user_feature_engineer, item_feature_engineer
-from XX import ranker
-from XX import process_recall
+from AutoX import user_feature_engineer, item_feature_engineer
+from AutoX import ranker
+from AutoX import process_recall
 
 class AutoXRecommend():
     def __init__(self):
